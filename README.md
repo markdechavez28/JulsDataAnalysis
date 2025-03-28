@@ -18,7 +18,7 @@ This project provides an **in-depth sales analysis and forecasting** for *Juls B
 ## 📊 Exploratory Data Analysis (EDA)  
 🔹 **Dataset:** 25,000+ daily transactions 📋  
 🔹 **Time Frame:** May 2023 – March 2024  
-🔹 **Features:** Date, product categories, quantity sold, revenue, promotions, weather conditions, etc.  
+🔹 **Features:** Date, product categories, quantity sold, revenue, etc.  
 
 📌 **Key Insights from EDA:**  
 📍 Peak sales occur on **weekends and payday periods**.  
